@@ -6,8 +6,8 @@
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/Customer%20Performance%20Report.pdf)_ 
-
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/Market%20Performace%20Vs%20Target.pdf)_
+    **3.** Gross Margin % by Subzone __[market performance and sales targets](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/Gross%20Margin%25%20by%20Quarter.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
