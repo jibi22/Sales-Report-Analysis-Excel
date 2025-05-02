@@ -9,11 +9,6 @@
   
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/Market%20Performace%20Vs%20Target.pdf)_
   
-    **3.** Gross Margin % by Subzone __[gross margin% by subzone](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/Gross%20Margin%25%20by%20Quarter.pdf)_
-
-    **4.** P & L statement by market __[P &L statement by market](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/P%26L%20statement%20by%20market.pdf)_
-
-    **5.** New Product 2021 __[New product in 2021](https://github.com/jibi22/Sales-Report-Analysis-Excel/blob/main/New%20Product%202021%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
